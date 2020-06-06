@@ -1,5 +1,7 @@
 # AVAL-mindjam
 Want to earn more sitting at home with stuff which is otherwise of no use?
+
+Get SMARTER!
 # Team Trojan HEX
 
   - [Krithikha Balamurugan](https://github.com/krithikha2001)
