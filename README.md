@@ -1,4 +1,7 @@
 # AVAL-mindjam
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 Want to earn more sitting at home with stuff which is otherwise of no use?
 
 Get SMARTER!
