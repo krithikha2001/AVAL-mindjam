@@ -1,8 +1,4 @@
 # AVAL-mindjam
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 Want to earn more sitting at home with stuff which is otherwise of no use?
 
 Get SMARTER!
@@ -11,8 +7,7 @@ Get SMARTER!
   - [Krithikha Balamurugan](https://github.com/krithikha2001)
   - [Sankirtana GV](https://github.com/geek-2002)
   - [Eshan Agarwal](https://github.com/Eshan-Agarwal16)
-  
- ## License📄
 
-This project is licensed under the GNU GPL v3 - see the [LICENSE.md](LICENSE.md) file for details
-
+# Product Goals
+This app is made to benifit users and help them in renting out their inactive commodities for a period of time. The app owners as such do not own any of the commodities which are being sold. Users can rent out anything ranging from tube lights to cars and earn while its of no use for them for a period of time. The buyers need to pay them the depreciation value over time.
+### This way, you can sit at home and earn from your commodities.
