@@ -7,3 +7,7 @@ Get SMARTER!
   - [Krithikha Balamurugan](https://github.com/krithikha2001)
   - [Sankirtana GV](https://github.com/geek-2002)
   - [Eshan Agarwal](https://github.com/Eshan-Agarwal16)
+
+## License📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
